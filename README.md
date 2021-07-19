@@ -9,3 +9,5 @@
 - The optimization process would get stuck at the local minimum instead of making its way to the global minimum.
 -  You can avoid such issues by using momentum, which draws inspiration from physics. A useful mental image here is to think of the optimization process as a small ball rolling down the loss curve. If it has enough momentum, the ball won’t get stuck in a ravine and will end up at the global minimum
 - if there high learning rate we may miss the minimum.
+
+for different Optimizers visit https://medium.datadriveninvestor.com/overview-of-different-optimizers-for-neural-networks-e0ed119440c3
